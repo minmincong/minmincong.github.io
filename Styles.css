@@ -1,0 +1,26 @@
+nav ul{
+  border: solid;
+  text-align: center;
+}
+nav ul li{
+  display: inline-block;
+  margin: 10px;
+}
+.carpics {
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+.Company {
+  font-weight: bold;
+}
+.Code {
+  font-style: italic;
+}
+.ad img {
+  width: 1000px;
+}
+.backarrow img {
+  width: 300px;
+}

@@ -1,0 +1,14 @@
+<style>
+h1 {
+    border: solid;
+    color: orange;
+    background-color: green;
+}
+</style>
+nav ul{
+  border: solid;
+}
+nav li{
+  style: inline-block;
+  margin: 10px;
+}
