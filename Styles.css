@@ -1,3 +1,9 @@
+div img{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
 nav ul{
   border: solid;
   text-align: center;
@@ -6,11 +12,16 @@ nav ul li{
   display: inline-block;
   margin: 10px;
 }
-.carpics {
-width: 500px;
-margin-left: auto;
-margin-right: auto;
-display: block;
+header img{
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+footer p{
+  text-align: center;
+}
+div p{
+  text-align: center;
 }
 .Company {
   font-weight: bold;
